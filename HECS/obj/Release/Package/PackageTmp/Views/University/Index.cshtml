@@ -1,0 +1,157 @@
+﻿<!-- content -->
+<div class="wrapper row3">
+    <div id="container">
+        <!-- ################################################################################################ -->
+        <div id="sidebar_1" class="sidebar one_quarter first">
+            <aside>
+                <!-- ########################################################################################## -->
+                <h2>Universities</h2>
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="#">Bulgaria</a>
+                            <ul>
+                                <li>
+                                    <a href="#">SOFIA</a>
+                                    <ul>
+                                        <li><a href="/University/Index/Medical_University_of_Sofia">Medical University of Sofia</a></li>
+                                        <li><a href="/University/Index/Sofia_University_St_Kliment_Ohridski">Sofia University St. Kliment Ohridski</a></li>
+                                        <li><a href="/University/Index/University_of_Architecture">University of Architecture, Civil Engineering and Geodesy ( YACG )</a></li>
+                                        <li><a href="/University/Index/UNIVERSITY_OF_FORESTRY">UNIVERSITY OF FORESTRY</a></li>
+                                        <li><a href="/University/Index/Technical_University_of_Sofia">Technical University of Sofia</a></li>
+                                        <li><a href="/University/Index/National_Sports_Academy">National Sports Academy "Vasil Levski"- NSA</a></li>
+                                        <li><a href="/University/Index/NursingSofia">Nursing University of Sofia</a></li>
+                                        <li><a href="/University/Index/Veterinery">University of Forestry of Sofia</a></li>
+                                    </ul>
+
+                                </li>
+                                <li>
+                                    <a href="#">PLOVDIV</a>
+                                    <ul>
+                                        <li><a href="/University/Index/MEDICINA_YNIVERSITET_PLOVDIV">MEDICINA YNIVERSITET PLOVDIV</a></li>
+                                        <li><a href="/University/Index/Plovdiv_University_Paisii_Hilendarski">Plovdiv University "Paisii Hilendarski"</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">VARNA</a>
+                                    <ul>
+                                        <li><a href="/University/Index/Medical_University_of_Varna_ProfDrParaskevStoyanov">Medical University of Varna 'Prof. Dr. Paraskev Stoyanov'</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">Stara Zagora</a>
+                                    <ul>
+                                        <li><a href="/University/Index/TrakiaUniversity">Trakia University Stara Zagora</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="#">Romania</a>
+                            <ul>
+                                <li><a href="/University/Index/Lasi">Lasi University</a></li>
+                                <li><a href="/University/Index/GrPopa">Gr Popa University</a></li>
+                                <li><a href="/University/Index/Ovidius">Ovidius Constanta University</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="#">Ukraine</a>
+                            <ul>
+                                <li><a href="http://www.ksmu.kharkov.ua/glavnoe-menyu/faculties/medicine-faculty">Kharkiv National Medical University</a></li>
+                                <li><a href="http://www.lvivmedicaluniversity.com/curriculum.html">Danylo Halytsky Lviv National Medical University</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+                <!-- /nav -->
+                <section>
+                    <h2>Get In Contact</h2>
+                    <address>
+                        Med Academia<br>
+                        Lozenets, 76A james bouchier Hill tower bisiness center<br>
+                        Sofia<br>
+                        1000<br>
+                        <br>
+                        @*Tel: 00359 89 910 2933<br>*@
+                        @*  Email: <a href="mailto:med.academia.bg@gmail.com">med.academia.bg@gmail.com</a>*@
+                    </address>
+                </section>
+                <!-- /section -->
+                @*<section>
+                        <article>
+                            <h2>Lorem ipsum dolor</h2>
+                            <p>Nuncsed sed conseque a at quismodo tris mauristibus sed habiturpiscinia sed.</p>
+                            <ul class="list indent disc">
+                                <li><a href="#">Lorem ipsum dolor sit</a></li>
+                                <li>Etiam vel sapien et</li>
+                                <li><a href="#">Etiam vel sapien et</a></li>
+                            </ul>
+                            <p>Nuncsed sed conseque a at quismodo tris mauristibus sed habiturpiscinia sed. Condimentumsantincidunt dui mattis magna intesque purus orci augue lor nibh.</p>
+                            <p class="more"><a href="#">Continue Reading &raquo;</a></p>
+                        </article>
+                    </section>*@
+                <!-- /section -->
+                <!-- ########################################################################################## -->
+            </aside>
+        </div>
+        <!-- ################################################################################################ -->
+        @switch ((string)ViewBag.SubPage)
+        {
+            case "Medical_University_of_Sofia":
+                @Html.Action("Medical_University_of_Sofia")
+                break;
+            case "Sofia_University_St_Kliment_Ohridski":
+                @Html.Action("Sofia_University_St_Kliment_Ohridski")
+                break;
+            case "University_of_Architecture":
+                @Html.Action("University_of_Architecture")
+                break;
+            case "UNIVERSITY_OF_FORESTRY":
+                @Html.Action("UNIVERSITY_OF_FORESTRY")
+                break;
+            case "MEDICINA_YNIVERSITET_PLOVDIV":
+                @Html.Action("MEDICINA_YNIVERSITET_PLOVDIV")
+                break;
+            case "Plovdiv_University_Paisii_Hilendarski":
+                @Html.Action("Plovdiv_University_Paisii_Hilendarski")
+                break;
+            case "Medical_University_of_Varna_ProfDrParaskevStoyanov":
+                @Html.Action("Medical_University_of_Varna_ProfDrParaskevStoyanov")
+                break;
+            case "National_Sports_Academy":
+                @Html.Action("National_Sports_Academy")
+                break;
+            case "Technical_University_of_Sofia":
+                @Html.Action("Technical_University_of_Sofia")
+                break;
+            case "NursingSofia":
+                @Html.Action("NursingSofia")
+                break;
+            case "Veterinery":
+                @Html.Action("Veterinery")
+                break;
+            case "TrakiaUniversity":
+                @Html.Action("TrakiaUniversity")
+                break;
+            case "Lasi":
+                @Html.Action("Lasi")
+                break;
+            case "GrPopa":
+                @Html.Action("GrPopa")
+                break;
+            case "Ovidius":
+                @Html.Action("Ovidius")
+                break;
+            default:
+                break;
+        }
+
+
+        <!-- ################################################################################################ -->
+        <div class="clear"></div>
+    </div>
+</div>
+
+

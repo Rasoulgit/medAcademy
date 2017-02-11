@@ -1,0 +1,69 @@
+D:\Projects\HECS\HECS\bin\HECS.dll
+D:\Projects\HECS\HECS\bin\HECS.pdb
+D:\Projects\HECS\HECS\bin\Antlr3.Runtime.dll
+D:\Projects\HECS\HECS\bin\EntityFramework.dll
+D:\Projects\HECS\HECS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\HECS\HECS\bin\Newtonsoft.Json.dll
+D:\Projects\HECS\HECS\bin\System.Net.Http.dll
+D:\Projects\HECS\HECS\bin\System.Net.Http.Formatting.dll
+D:\Projects\HECS\HECS\bin\System.Net.Http.WebRequest.dll
+D:\Projects\HECS\HECS\bin\System.Web.Http.dll
+D:\Projects\HECS\HECS\bin\System.Web.Http.WebHost.dll
+D:\Projects\HECS\HECS\bin\System.Web.Mvc.dll
+D:\Projects\HECS\HECS\bin\System.Web.Optimization.dll
+D:\Projects\HECS\HECS\bin\System.Web.Providers.dll
+D:\Projects\HECS\HECS\bin\System.Web.Razor.dll
+D:\Projects\HECS\HECS\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\HECS\HECS\bin\System.Web.WebPages.dll
+D:\Projects\HECS\HECS\bin\System.Web.WebPages.Razor.dll
+D:\Projects\HECS\HECS\bin\WebGrease.dll
+D:\Projects\HECS\HECS\bin\EntityFramework.xml
+D:\Projects\HECS\HECS\bin\Newtonsoft.Json.xml
+D:\Projects\HECS\HECS\bin\System.Net.Http.xml
+D:\Projects\HECS\HECS\bin\System.Net.Http.Formatting.xml
+D:\Projects\HECS\HECS\bin\System.Net.Http.WebRequest.xml
+D:\Projects\HECS\HECS\bin\System.Web.Http.xml
+D:\Projects\HECS\HECS\bin\System.Web.Http.WebHost.xml
+D:\Projects\HECS\HECS\bin\System.Web.Mvc.xml
+D:\Projects\HECS\HECS\bin\System.Web.Razor.xml
+D:\Projects\HECS\HECS\bin\System.Web.WebPages.xml
+D:\Projects\HECS\HECS\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\HECS\HECS\bin\System.Web.WebPages.Razor.xml
+D:\Projects\HECS\HECS\obj\Debug\HECS.csprojResolveAssemblyReference.cache
+D:\Projects\HECS\HECS\obj\Debug\HECS.dll
+D:\Projects\HECS\HECS\obj\Debug\HECS.pdb
+D:\My file\Projects\HECS\HECS\bin\HECS.dll
+D:\My file\Projects\HECS\HECS\bin\HECS.pdb
+D:\My file\Projects\HECS\HECS\bin\Antlr3.Runtime.dll
+D:\My file\Projects\HECS\HECS\bin\EntityFramework.dll
+D:\My file\Projects\HECS\HECS\bin\Microsoft.Web.Infrastructure.dll
+D:\My file\Projects\HECS\HECS\bin\Newtonsoft.Json.dll
+D:\My file\Projects\HECS\HECS\bin\System.Net.Http.dll
+D:\My file\Projects\HECS\HECS\bin\System.Net.Http.Formatting.dll
+D:\My file\Projects\HECS\HECS\bin\System.Net.Http.WebRequest.dll
+D:\My file\Projects\HECS\HECS\bin\System.Web.Http.dll
+D:\My file\Projects\HECS\HECS\bin\System.Web.Http.WebHost.dll
+D:\My file\Projects\HECS\HECS\bin\System.Web.Mvc.dll
+D:\My file\Projects\HECS\HECS\bin\System.Web.Optimization.dll
+D:\My file\Projects\HECS\HECS\bin\System.Web.Providers.dll
+D:\My file\Projects\HECS\HECS\bin\System.Web.Razor.dll
+D:\My file\Projects\HECS\HECS\bin\System.Web.WebPages.Deployment.dll
+D:\My file\Projects\HECS\HECS\bin\System.Web.WebPages.dll
+D:\My file\Projects\HECS\HECS\bin\System.Web.WebPages.Razor.dll
+D:\My file\Projects\HECS\HECS\bin\WebGrease.dll
+D:\My file\Projects\HECS\HECS\bin\EntityFramework.xml
+D:\My file\Projects\HECS\HECS\bin\Newtonsoft.Json.xml
+D:\My file\Projects\HECS\HECS\bin\System.Net.Http.xml
+D:\My file\Projects\HECS\HECS\bin\System.Net.Http.Formatting.xml
+D:\My file\Projects\HECS\HECS\bin\System.Net.Http.WebRequest.xml
+D:\My file\Projects\HECS\HECS\bin\System.Web.Http.xml
+D:\My file\Projects\HECS\HECS\bin\System.Web.Http.WebHost.xml
+D:\My file\Projects\HECS\HECS\bin\System.Web.Mvc.xml
+D:\My file\Projects\HECS\HECS\bin\System.Web.Razor.xml
+D:\My file\Projects\HECS\HECS\bin\System.Web.WebPages.xml
+D:\My file\Projects\HECS\HECS\bin\System.Web.WebPages.Deployment.xml
+D:\My file\Projects\HECS\HECS\bin\System.Web.WebPages.Razor.xml
+D:\My file\Projects\HECS\HECS\obj\Debug\HECS.dll
+D:\My file\Projects\HECS\HECS\obj\Debug\HECS.pdb
+D:\My file\Projects\HECS\HECS\bin\HECS.dll.config
+D:\My file\Projects\HECS\HECS\obj\Debug\HECS.csprojResolveAssemblyReference.cache

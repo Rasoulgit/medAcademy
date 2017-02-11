@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    @if (ViewBag.Title == null)
+    {
+        ViewBag.Title = "Med Academia";
+    }
+    <title>@ViewBag.Title</title>
+    <meta charset="iso-8859-1">
+    <meta name="~/viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/layout/styles/main.css" rel="stylesheet" type="text/css" media="all">
+    <link href="~/layout/styles/mediaqueries.css" rel="stylesheet" type="text/css" media="all">
+    @Scripts.Render("~/bundles/jquery")
+    @Styles.Render("~/bundles/fancybox_CSS")
+    @Scripts.Render("~/bundles/fancybox")
+    @Scripts.Render("~/bundles/default")
+
+    @*<link href="~/Content/flag/css/bootstrap.min.css" rel="stylesheet" id="bootstrap">
+
+    <link href="~/Content/flag/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="~/Content/flag/assets/docs.css" rel="stylesheet">*@
+
+    <link href="~/Content/flag/css/flag-icon.css" rel="stylesheet">
+
+    <!-- Slider -->
+    <link href="~/layout/scripts/responsiveslides.js-v1.53/responsiveslides.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body class="">
+
+    @Html.Partial("_Header")
+    <!-- ################################################################################################ -->
+    @Html.Partial("_TopMenu")
+    <!-- ################################################################################################ -->
+    @RenderBody()
+    <!-- Footer -->
+    @Html.Partial("_Footer")
+    <div class="wrapper row4">
+        <div id="copyright" class="clear">
+            <p class="fl_left">Copyright &copy; 2016 - All Rights Reserved - <a href="#">Med Academia</a></p>
+            @*  <p class="fl_right">Template by <a href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>*@
+        </div>
+    </div>
+    <!-- Scripts -->
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.1/jquery-ui.min.js"></script>
+    <script>
+window.jQuery || document.write('<script src="layout/scripts/jquery-latest.min.js"><\/script>\
+<script src="layout/scripts/jquery-ui.min.js"><\/script>')</script>
+    <script>jQuery(document).ready(function ($) { $('img').removeAttr('width height'); });</script>
+    <script src="~/layout/scripts/responsiveslides.js-v1.53/responsiveslides.min.js"></script>
+    <script src="~/layout/scripts/jquery-mobilemenu.min.js"></script>
+    <script src="~/layout/scripts/custom.js"></script>
+
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>
